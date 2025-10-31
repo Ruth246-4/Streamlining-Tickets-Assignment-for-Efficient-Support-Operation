@@ -1,14 +1,14 @@
 # Streamlining-Tickets-Assignment-for-Efficient-Support-Operation
 
-Objective: 
-# The objective is to optimize the ticket assignment process to ensure faster response times and balanced workloads across support teams.
-# It aims to automate ticket routing based on priority, expertise, and availability, minimizing manual intervention.
-# Ultimately, the goal is to enhance customer satisfaction and improve overall support efficiency.
+#Objective: 
+The objective is to optimize the ticket assignment process to ensure faster response times and balanced workloads across support teams.
+It aims to automate ticket routing based on priority, expertise, and availability, minimizing manual intervention.
+Ultimately, the goal is to enhance customer satisfaction and improve overall support efficiency.
 
-Project Overview:
+#Project Overview:
 This project focuses on developing an intelligent system to streamline ticket assignment within support operations. By leveraging automation and data-driven decision-making, the system efficiently routes tickets to the most suitable agents based on skill, priority, and workload. The solution aims to reduce resolution time, improve team productivity, and enhance the overall customer support experience.
 
-Implementation Steps:
+#Implementation Steps:
 1. Create Users
 
     Navigate to All → Users → New
@@ -46,25 +46,24 @@ Implementation Steps:
         If Issue = Regarding Certificates → Assign to Certificates Group
         If Issue = Login / 404 / Expired → Assign to Platform Group
 
-   Outcome
+   #Outcome
 By leveraging ServiceNow Flow Designer, this system automatically assigns tickets to the appropriate support team, significantly reducing response time and manual workload.
 
-   Screenshots
+  # Screenshots
+User Creation
+Group Creation 
+Flow Setup
+Auto Assignment Output
 
-    User Creation
-    Group Creation
-    Flow Setup
-    Auto Assignment Output
 
-
-Team Members
+# Team Members
 
   Ruth Maria Paul
   Sneha P
   Stephin Suby
   Vibish Vincent V
 
-Conclusion 
+# Conclusion 
  In conclusion, the project ensures a smarter and faster ticket assignment process that enhances efficiency and customer satisfaction. It minimizes manual effort while optimizing team performance. Overall, it contributes to a more responsive and effective support system.
 
 
